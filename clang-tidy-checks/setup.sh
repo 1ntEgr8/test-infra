@@ -7,7 +7,7 @@ function info() {
 }
 
 function success() {
-  echo "success!"
+  info "success"
 }
 
 function check_requirements() {
