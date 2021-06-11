@@ -3,3 +3,10 @@
 *.env
 *.txt
 *.zip
+*.swp
+
+**/.DS_Store
+*.pem
+*.tfstate
+*.tfstate.*
+.terraform/
